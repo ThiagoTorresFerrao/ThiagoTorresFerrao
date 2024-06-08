@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @Thiago Torres Ferrao
+# Hi 👋, I'm Thiago Torres!
+## Dreaming of being a Full Stack Developer
+
 - 👀 Always looking for knowledge.
 - 🌱 I'm always looking for knowledge in JavaScript, NodeJS, ReactJS, API's...
 - 💬 Ask me about JavaScript, NodeJS, ReactJS, C#, .NET, ASP.NET, SQL, NoSQL, TDD, API's and Coffe.
