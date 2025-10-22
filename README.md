@@ -35,6 +35,9 @@
 
 <a href="https://www.instagram.com/thiagotorresferrao" target="_blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
+
+<a href="https://wa.me/5535997629116?text=Hello%20Thiago!%20I%20came%20across%20your%20GitHub%20profile%20%F0%9F%9A%80" target="_blank">
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/WhatsApp_icon.png" alt="WhatsApp" width="40" height="40"/></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
