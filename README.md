@@ -83,4 +83,14 @@
 <a href="https://nodejs.org/" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="45" height="40"/>
 </a>
+
+<!-- Kotlin -->
+<a href="https://kotlinlang.org/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="kotlin" width="45" height="40"/>
+</a>
+
+<!-- Android -->
+<a href="https://developer.android.com/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="android" width="45" height="40"/>
+</a>
 </p>
