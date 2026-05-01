@@ -28,7 +28,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/thiago-f-torres" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emoonlit" height="30" width="45" /></a>
+<a href="https://www.linkedin.com/in/thiago-f-torres" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ThiagoTorres" height="30" width="45" /></a>
 
 <a href="https://www.youtube.com/@Thiago_Torres" target="_blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="45" /></a>
@@ -39,6 +39,7 @@
 <a href="https://wa.me/5535997629116?text=Hello%20Thiago!%20I%20came%20across%20your%20GitHub%20profile%20%F0%9F%9A%80" target="_blank">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" 
      alt="WhatsApp" width="45" height="30"/>
+</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
