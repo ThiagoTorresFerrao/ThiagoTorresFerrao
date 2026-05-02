@@ -1,22 +1,24 @@
 <h1 align="center">Hi 👋, I'm Thiago Torres!</h1>
-<h3 align="center">Dreaming of being a Full Stack Developer</h3>
-
-- 👀 Always looking for knowledge.
-
-- 🌱 I'm always looking for knowledge in JavaScript, NodeJS, ReactJS, API's...
-
-- 💬 Ask me about JavaScript, NodeJS, ReactJS, C#, .NET, ASP.NET, SQL, NoSQL, TDD, API's and Coffe.
-
-- 🤔 I'm looking for help with career advancement.
-
-- ⚡ Fun fact: I'm a musician in my spare time.
-
-- 📫 How to reach me, **[Linkedin](https://www.linkedin.com/in/thiago-f-torres/)**, email: **thiago.guitarrista@bol.com.br**.
-
+<h3 align="center">Full Stack Developer in progress 🚀</h3>
 
 ---
 
-<h3 align="left">🌐 Portfolio</h3>
+### 👨‍💻 About Me
+
+- 👀 Passionate about technology since childhood.
+- 🌱 Currently improving my skills in **JavaScript, Node.js, React, APIs and Cloud (AWS)**.
+- 💬 Ask me about **JavaScript, NodeJS, ReactJS, C#, .NET, ASP.NET, SQL, NoSQL, TDD, APIs and AWS**.
+- 🎓 I’ve also had experience sharing knowledge as an instructor, helping others learn programming concepts.
+- 🤔 Looking for opportunities to grow professionally as a developer.
+- ⚡ Fun fact: I'm a musician in my spare time 🎸
+- 📫 Reach me at:  
+  👉 **LinkedIn:** https://www.linkedin.com/in/thiago-f-torres/  
+  👉 **Email:** thiago.guitarrista@bol.com.br  
+
+---
+
+### 🌐 Portfolio
+
 <p align="left">
   <a href="https://thiagotorres.dev/" target="_blank">
     🌎 <strong>Visit my personal portfolio</strong>
@@ -25,73 +27,51 @@
 
 ---
 
+### 🤝 Connect with me
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/thiago-f-torres" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ThiagoTorres" height="30" width="45" /></a>
-
-<a href="https://www.youtube.com/@Thiago_Torres" target="_blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="45" /></a>
-
-<a href="https://www.instagram.com/thiagotorresferrao" target="_blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="45" /></a>
-
-<a href="https://wa.me/5535997629116?text=Hello%20Thiago!%20I%20came%20across%20your%20GitHub%20profile%20%F0%9F%9A%80" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" 
-     alt="WhatsApp" width="45" height="30"/>
-</a>
+  <a href="https://www.linkedin.com/in/thiago-f-torres" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
+  </a>
+  <a href="https://www.youtube.com/@Thiago_Torres" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="30" width="40"/>
+  </a>
+  <a href="https://www.instagram.com/thiagotorresferrao" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40"/>
+  </a>
+  <a href="https://wa.me/5535997629116" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" height="30" width="40"/>
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
+---
+
+### 🛠️ Languages and Tools
+
+<p align="left" style="display:flex; flex-wrap:wrap; gap:10px;">
   
-<a href="https://www.w3schools.com/cs/" target="_blank"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="45" height="40"/>
-</a> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" width="40"/>
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="40"/> 
-</a>
-
-<a href="https://git-scm.com/" target="_blank"> 
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="45" height="40"/> 
-</a> 
-
-<a href="https://www.linux.org/" target="_blank"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="45" height="40"/> 
-</a> 
-
-<a href="https://www.mongodb.com/" target="_blank"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="45" height="40"/> 
-</a> 
-
-<a href="https://www.mysql.com/" target="_blank"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="40"/> 
-</a> 
-
-<a href="https://tailwindcss.com/" target="_blank">
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="45" height="40"/>
-</a>
-
-<a href="https://www.python.org/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45" height="40"/>
-</a>
-
-<a href="https://aws.amazon.com/" target="_blank">
-  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" width="45" height="40"/>
-</a>
-
-<a href="https://nodejs.org/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="45" height="40"/>
-</a>
-
-<!-- Kotlin -->
-<a href="https://kotlinlang.org/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="kotlin" width="45" height="40"/>
-</a>
-
-<!-- Android -->
-<a href="https://developer.android.com/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="android" width="45" height="40"/>
-</a>
 </p>
+
+---
+
+### 🚀 Goals
+
+- Become a strong **Full Stack Developer**
+- Build scalable and real-world applications
+- Contribute to open source projects
+- Keep evolving in **Cloud and modern architectures**
+
+---
