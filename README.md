@@ -1,14 +1,15 @@
 <h1 align="center">Hi 👋, I'm Thiago Torres!</h1>
-<h3 align="center">Full Stack Developer in progress 🚀</h3>
+<h3 align="center">Full Stack Developer focused on Front-End 🚀</h3>
 
 ---
 
 ### 👨‍💻 About Me
 
 - 👀 Passionate about technology since childhood.
-- 🌱 Currently improving my skills in **JavaScript, Node.js, React, APIs and Cloud (AWS)**.
-- 💬 Ask me about **JavaScript, NodeJS, ReactJS, C#, .NET, ASP.NET, SQL, NoSQL, TDD, APIs and AWS**.
-- 🎓 I’ve also had experience sharing knowledge as an instructor, helping others learn programming concepts.
+- 🎯 Full Stack Developer with strong focus on **Front-End development**.
+- 🌱 Currently improving my skills in **React, modern JavaScript, UI/UX and Cloud (AWS)**.
+- 💬 Ask me about **JavaScript, React, Front-End Architecture, UI/UX, APIs, Node.js and AWS**.
+- 🎓 I also have experience as an instructor, helping others learn programming in a practical way.
 - 🤔 Looking for opportunities to grow professionally as a developer.
 - ⚡ Fun fact: I'm a musician in my spare time 🎸
 - 📫 Reach me at:  
@@ -48,30 +49,26 @@
 
 ### 🛠️ Languages and Tools
 
-<p align="left" style="display:flex; flex-wrap:wrap; gap:10px;">
-  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40"/>
+<p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/>
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" width="40"/>
-
+  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
 </p>
 
 ---
 
 ### 🚀 Goals
 
-- Become a strong **Full Stack Developer**
-- Build scalable and real-world applications
-- Contribute to open source projects
-- Keep evolving in **Cloud and modern architectures**
+- Become a high-level **Full Stack Developer with Front-End expertise**
+- Build scalable and modern web applications
+- Create impactful UI/UX experiences
+- Keep evolving in **Cloud, performance and architecture**
 
 ---
